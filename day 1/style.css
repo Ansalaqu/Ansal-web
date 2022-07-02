@@ -1,0 +1,107 @@
+
+.header{
+    width: 100%;
+    height: 100px;
+    background: rgb(3, 108, 157);
+    color: aliceblue;
+   
+}
+.content-left{
+    float: left;
+    width: 30%;
+    height: 350px;
+    background: rgb(218, 221, 216);
+    
+}
+.content-right{
+    float: left;
+    width: 70%;
+    height: 350px;
+    background: rgb(249, 249, 249);
+}
+.content{
+    height: 100px;
+}
+.footer{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background: rgb(8, 92, 248);
+
+}
+body{
+    margin: 00;
+}
+.text-head{
+    font-size:30px;
+    padding: 30px;
+  
+  text-align: center;
+   
+
+}
+.box1{
+    cursor: pointer;
+    width: 100%;
+    height: 40px;
+    background: rgb(178, 192, 178);
+   
+    
+    
+}
+.box2{
+    cursor: pointer;
+  margin-top: 2px;
+      float: left;
+    width: 100%;
+    height: 40px;
+    background: rgb(178, 192, 178);
+}
+.box3{
+    cursor: pointer;
+    margin-top: 2px;
+        float: left;
+      width: 100%;
+      height: 40px;
+      background: rgb(178, 192, 178);
+  }
+  .box4{
+    cursor: pointer;
+    margin-top: 2px;
+        float: left;
+      width: 100%;
+      height: 40px;
+      background: rgb(178, 192, 178);
+  }
+  .box5{
+    cursor: pointer;
+    margin-top: 2px;
+        float: left;
+      width: 100%;
+      height: 40px;
+      background: rgb(178, 192, 178);
+  }
+  .box6{
+    cursor: pointer;
+    margin-top: 2px;
+        float: left;
+      width: 100%;
+      height: 40px;
+      background: rgb(178, 192, 178);
+  }
+  .box7{
+    cursor: pointer;
+    margin-top: 2px;
+        float: left;
+      width: 100%;
+      height: 40px;
+      background: rgb(178, 192, 178);
+  }
+  .box8{
+    cursor: pointer;
+    margin-top: 2px;
+        float: left;
+      width: 100%;
+      height: 40px;
+      background: rgb(178, 192, 178);
+  }
